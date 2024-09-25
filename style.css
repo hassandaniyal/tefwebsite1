@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+
+}
+
+#enroll-students {
+    background-color: #00748c;
+}
+.enroll{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+#modern-schools{
+    background-color: #f9f9f9;
+}
+#footer{
+    background-color:#333333;
+    margin-top: 20px auto;
+    
+}
+.content{
+    color: #919699;
+    font-size: 12;
+}
+.list{
+    color: #919699;
+    transition: all 1px ease;
+}
+ .list:hover{
+    color: white;
+    cursor: pointer;
+ }
+
+ .headings{
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow:  3px 2px 4px rgb(43, 42, 42);
+ }
+
+
+
+ #footer-end{
+    background-color: black;
+    padding: 20px 15px;
+    font-size: 13px;
+ }
